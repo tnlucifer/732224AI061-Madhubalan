@@ -21,4 +21,5 @@
 
 ## Screenshot
 
-<img width="511" height="236" alt="Screenshot 2025-11-21 124308" src="https://github.com/user-attachments/assets/9f98a25b-ff12-4445-b064-da0229013b12" />
+<img width="578" height="263" alt="Screenshot 2025-11-22 093229" src="https://github.com/user-attachments/assets/b7672d85-4d99-46b1-a880-28e2efdeb65c" />
+
